@@ -3,4 +3,5 @@
     <string name="text_btn_dowork">Do work</string>
     <string name="text_btn_dowork_constrain">Do work constrain</string>
     <string name="text_btn_cancel">Cancel</string>
+    <string name="text_btn_cancel_all">Cancel All</string>
 </resources>
